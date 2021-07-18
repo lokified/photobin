@@ -37,3 +37,7 @@ ol{
     border: 1px dotted;
     padding: 5px;
 }
+.column{
+    float: left;
+    width: 50%;
+}

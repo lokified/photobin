@@ -8,7 +8,7 @@ The website is about photography where you can view variety of photos taken by v
 * read through the homepage
 * visit the album page
 
-## Project design
+## Project Design
 (https://user-images.githubusercontent.com/87479198/126073850-f1974fda-7e34-4548-b6aa-abba1a69d504.jpg)
 ![20210718_184902]
 (https://user-images.githubusercontent.com/87479198/126073892-fa5fbb95-6d4f-41f3-a160-88fcd329b4b7.jpg)
@@ -16,7 +16,7 @@ The website is about photography where you can view variety of photos taken by v
  *contacts and FAQ button not yet working.
  *no new photos in the see more link
  *social media account is not linked to any account
-## Technologies Used![20210718_184541]
+## Technologies Used
 No new technologies just CSS and HTML.
 
 

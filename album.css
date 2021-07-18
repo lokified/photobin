@@ -15,6 +15,7 @@ h3{
 }
 ol{
     border: 1px dotted;
+    padding: 5px;
 }
 li{
     display: inline;

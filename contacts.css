@@ -8,3 +8,14 @@ h3{
 p{
     margin-bottom: 30px;
 }
+.graph{
+    margin-bottom: 2px;
+    padding: 10px;
+}
+#line{
+    display: block;
+}
+#last{
+    font-size: small;
+    font-weight: bold;
+}

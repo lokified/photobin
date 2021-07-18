@@ -53,10 +53,11 @@ a:hover{
     background-color: teal;
 }
 .graph{
-    margin: 2px;
+    margin-bottom: 2px;
     padding: 10px;
 }
 #line{
     display: block;
 }
+
 

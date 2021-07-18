@@ -26,3 +26,7 @@ h3{
     font-size: x-large;
     margin-top: 2px;
 }
+.content{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

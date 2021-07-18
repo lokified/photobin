@@ -20,3 +20,10 @@ ol{
 li{
     display: inline;
 }
+.graph{
+    margin-bottom: 2px;
+    padding: 10px;
+}
+#line{
+    display: block;
+}

@@ -22,3 +22,7 @@ p{
 h5{
     color: chocolate;
 }
+a:hover{
+    color: blue;
+    background-color: teal;
+}

@@ -61,4 +61,7 @@ a:hover{
     color: blue;
     background-color: teal;
 }
+.last-bit{
+    display: inline-block;
+}
 

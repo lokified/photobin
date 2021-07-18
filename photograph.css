@@ -8,12 +8,12 @@ h1{
     margin-bottom: 2px;
 }
 li{
-    display: block;
+    display: inline;
     padding: 5px;
     
 }
 ul{
-    
+    text-align: right;
     padding: 5px;
 }
 nav{
@@ -52,9 +52,8 @@ a:hover{
     color: blue;
     background-color: teal;
 }
-.last-bit{
-    display: inline-block;
+.graph{
+    margin: 2px;
+    padding: 10px;
 }
-.last-part{
-    display: block;
-}
+

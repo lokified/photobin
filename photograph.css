@@ -26,10 +26,14 @@ h3{
     font-size: x-large;
     margin-top: 2px;
 }
-.content{
+p{
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .pictures{
     border: 1px dotted;
+}
+ol{
+    border: 1px dotted;
+    padding: 5px;
 }

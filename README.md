@@ -8,17 +8,17 @@ The website is about photography where you can view variety of photos taken by v
 * read through the homepage
 * visit the album page
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+## Project design
+(https://user-images.githubusercontent.com/87479198/126073850-f1974fda-7e34-4548-b6aa-abba1a69d504.jpg)
+![20210718_184902]
+(https://user-images.githubusercontent.com/87479198/126073892-fa5fbb95-6d4f-41f3-a160-88fcd329b4b7.jpg)
 ## Known Bugs
  *contacts and FAQ button not yet working.
  *no new photos in the see more link
  *social media account is not linked to any account
 ## Technologies Used![20210718_184541]
 No new technologies just CSS and HTML.
-## Project design
-(https://user-images.githubusercontent.com/87479198/126073850-f1974fda-7e34-4548-b6aa-abba1a69d504.jpg)
-![20210718_184902]
-(https://user-images.githubusercontent.com/87479198/126073892-fa5fbb95-6d4f-41f3-a160-88fcd329b4b7.jpg)
+
 
 
 ## Support and contact details

@@ -8,12 +8,12 @@ h1{
     margin-bottom: 2px;
 }
 li{
-    display: inline;
+    display: block;
     padding: 5px;
     
 }
 ul{
-    text-align: right;
+    
     padding: 5px;
 }
 nav{
@@ -38,16 +38,7 @@ ol{
     border: 1px dotted;
     padding: 5px;
 }
-.column{
-    float: left;
-    width: 50%;
-    
-}
-#column{
-    text-align: initial;
-    display: block;
-    
-}
+
 h5{
     margin-top: 5px;
     color: chocolate;
@@ -64,4 +55,6 @@ a:hover{
 .last-bit{
     display: inline-block;
 }
-
+.last-part{
+    display: block;
+}

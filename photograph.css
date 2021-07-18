@@ -8,7 +8,7 @@ h1{
     margin-bottom: 2px;
 }
 li{
-    display: block;
+    display: inline;
     padding: 5px;
     
 }
@@ -57,3 +57,4 @@ h5{
 footer{
     padding: 10px;
 }
+

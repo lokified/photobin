@@ -13,7 +13,7 @@ The website is about photography where you can view variety of photos taken by v
 ![20210718_184902]
 (https://user-images.githubusercontent.com/87479198/126073892-fa5fbb95-6d4f-41f3-a160-88fcd329b4b7.jpg)
 ## Known Bugs
- *contacts and FAQ button not yet working.
+ *FAQ button not yet working.
  *no new photos in the see more link
  *social media account is not linked to any account
 ## Technologies Used

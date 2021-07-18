@@ -57,4 +57,8 @@ h5{
 footer{
     padding: 10px;
 }
+a:hover{
+    color: blue;
+    background-color: teal;
+}
 

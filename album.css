@@ -19,6 +19,7 @@ ol{
 }
 li{
     display: inline;
+    padding: 5px;
 }
 .graph{
     margin-bottom: 2px;
@@ -39,3 +40,4 @@ h5{
 a:hover{
     color: blue;
     background-color: teal;
+}

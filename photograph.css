@@ -30,3 +30,6 @@ h3{
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.pictures{
+    border: 1px dotted;
+}

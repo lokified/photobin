@@ -12,8 +12,8 @@ p{
     margin-bottom: 2px;
     padding: 10px;
 }
-#line{
-    display: block;
+#line2{
+    display: inline;
 }
 #last{
     font-size: small;

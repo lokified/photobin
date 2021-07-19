@@ -51,11 +51,12 @@ footer{
 }
 a:hover{
     color: blue;
-    background-color: teal;
+    background-color: wheat;
 }
 .graph{
     margin-bottom: 2px;
     padding: 10px;
+    
 }
 #line{
     display: block;

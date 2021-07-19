@@ -16,6 +16,7 @@ The website is about photography where you can view variety of photos taken by v
  *FAQ button not yet working.
  *no new photos in the see more link
  *social media account is not linked to any account
+ *there is no download option yet.
 ## Technologies Used
 No new technologies just CSS and HTML.
 
